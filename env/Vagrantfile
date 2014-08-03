@@ -12,7 +12,7 @@ VAGRANTFILE_API_VERSION = "2"
 ip_address = CONFIG['ip_address'] || "172.22.22.22"
 
 # The project name is base for directories, hostname and alike
-project_name = CONFIG['project_name'] || my_app 
+project_name = CONFIG['project_name'] || "my-app" 
 
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
