@@ -1,0 +1,6 @@
+name        'my-app'
+version     '0.0.1'
+summary     'This module installs My_App.'
+description 'This module installs My_App.'
+license     'MIT'
+author      'My Name'

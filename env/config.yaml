@@ -1,0 +1,10 @@
+---
+project_name: my-app
+author_name: My Name
+author_email: my_name@email.com
+public_root: 
+listen_port: 80
+db_name: my-app
+db_user: my-app
+db_pass: my-password
+app_env: local
